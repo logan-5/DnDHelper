@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Encounters</key>
+	<array/>
+	<key>Players</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Hadarai Ilphelkiir</string>
+			<key>Race</key>
+			<string>High Elf</string>
+			<key>Class</key>
+			<string>Wizard (Acolyte)</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Quill Dimarrou</string>
+			<key>Race</key>
+			<string>Human</string>
+			<key>Class</key>
+			<string>Fighter (Folk Hero)</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Adrik Ungart</string>
+			<key>Race</key>
+			<string>Dwarf</string>
+			<key>Class</key>
+			<string>Cleric (Soldier)</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Loom Underbough</string>
+			<key>Race</key>
+			<string>Halfling</string>
+			<key>Class</key>
+			<string>Rogue (Criminal)</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Xanian Trannyth the Great</string>
+			<key>Race</key>
+			<string>Human</string>
+			<key>Class</key>
+			<string>Fighter (Noble)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
